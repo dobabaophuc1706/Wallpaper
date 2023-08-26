@@ -28,7 +28,7 @@ https://straight-tamago.github.io/misaka/?repo=https://raw.githubusercontent.com
 =============
 <a name="note"></a>
 <li>Add Shazam module before using</li>
-<li>Thanks to @straight-tamago for a amazing tweak 🥳</li>
+<li>Thanks @straight-tamago for a amazing tweak 🥳</li>
 
 Thank you for your reading
 =============
