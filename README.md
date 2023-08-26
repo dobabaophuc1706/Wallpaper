@@ -18,9 +18,9 @@ https://straight-tamago.github.io/misaka/Misaka
 ```
 https://straight-tamago.github.io/misaka/?repo=https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json&tweak=com.straight-tamago.CCWP
 ```
-<img src="https://github.com/dobabaophuc1706/Wallpaper/blob/main/README.md/Tweak.png">
+<img src="https://github.com/dobabaophuc1706/Wallpaper/blob/main/README/Tweak.png">
 <li>Step 4: Hold and tap Advanced Setting then import image downloaded in Step 1 at WALLPAPER IMAGE PATH</li>
-<img src="https://github.com/dobabaophuc1706/Wallpaper/blob/main/README.md/TweakSetting.png">
+<img src="https://github.com/dobabaophuc1706/Wallpaper/blob/main/README/AdSetting.png">
 <li>Step 5: Edit POSITION and WALLPAPER SIZE to suit your screen resolution (Also remember to change the location of Shazam Module in IOS Setting to match the wallpaper)</li>
 <li>Step 6: Apply then Respring (Should be Restart Frontboard)</li>
 
