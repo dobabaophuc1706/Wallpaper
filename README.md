@@ -11,6 +11,7 @@ How to use
 I - CC WallPaper
 =============
 > **Step 1:** Download your favorite image
+
 > **Step 2:** Install **Misaka** (https://straight-tamago.github.io/misaka/Misaka)
 
 ```
