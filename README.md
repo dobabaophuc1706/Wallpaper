@@ -35,12 +35,14 @@ https://straight-tamago.github.io/misaka/?repo=https://raw.githubusercontent.com
 <p/>
 
 > **Step 5:** Edit **POSITION** and **WALLPAPER SIZE** to suit your screen resolution (Also remember to change the location of **Shazam Module** in **IOS Setting** to match the wallpaper)
+
 > **Step 6:** **Apply then Respring** (Should be Restart Frontboard)
 
 [Note](#note)
 =============
 <a name="note"></a>
 > Add **Shazam Module** before using
+
 > Thank you **@straight-tamago** for a amazing tweak 🥳
 
 Thank you for your reading
